@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'prudhv'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32CC495E0E7342A59B71F7542FA092E2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_598D0CA23E8B4F418E39C3699857A012 }}
           package: .
